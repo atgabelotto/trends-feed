@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>Daily Social Trends</title>
+<link>https://atgabelotto.github.io/trends-feed/</link>
+<description>Daily raw social trends across Instagram, TikTok and Pinterest, whittled from 100+ candidates to 25 by virality, growth rate and sentiment. Client tags are filters for the reader, not a filter on the feed.</description>
+<language>en-ca</language>
+<lastBuildDate>Fri, 30 Oct 2026 19:35:28 +0000</lastBuildDate>
+<item>
+<title>@sample-creator — SAMPLE ONLY — format check, not a real trend</title>
+<link>https://www.instagram.com/reel/SAMPLE/</link>
+<guid isPermaLink="true">https://www.instagram.com/reel/SAMPLE/</guid>
+<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+<description>Placeholder item to prove the feed validates and renders in a reader. Engagement: 150K likes (verified). Score: virality 5/5 + growth 4/5 + sentiment 5/5 = 14/15. Sound: Sample sound.</description>
+<category>instagram</category>
+<category>food</category>
+<category>ontario-beef</category>
+</item>
+<item>
+<title>@sample-creator-2 — SAMPLE ONLY — unverified engagement flag check</title>
+<link>https://www.tiktok.com/@sample/video/1</link>
+<guid isPermaLink="true">https://www.tiktok.com/@sample/video/1</guid>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+<description>Placeholder item to prove unverified figures are flagged, not invented, and low sentiment ranks down. Engagement: engagement not verified (UNVERIFIED engagement). Score: virality 4/5 + growth 3/5 + sentiment 2/5 = 9/15.</description>
+<category>tiktok</category>
+<category>dance</category>
+</item>
+</channel>
+</rss>
