@@ -34,15 +34,15 @@ Buckets (added Oct 30, 2026, per the user's rule):
   first_seen: ISO date the trend was FIRST seen in a daily candidate pool.
     If absent, the trend counts as new today.
   age = build date (UTC) - first_seen, in days.
-    age <= 7 days  -> New, capped at MAX_NEW (25)
+    age <= 7 days  -> New, capped at MAX_NEW (50, raised from 25 on Nov 4, 2026)
     8–14 days and still in today's pool -> Signal, capped at MAX_SIGNAL (5)
     15–21 days and still in today's pool -> Evergreen, capped at MAX_EVERGREEN (5)
     age > 21 days  -> EXPIRED, dropped even if still trending.
   A trend that misses a daily pool resets: its first_seen becomes the date
   it reappears, so a dead trend cannot resurrect as a Signal/Evergreen.
-  Total feed size is therefore at most 25 + 5 + 5 = 35 items.
+  Total feed size is therefore at most 50 + 5 + 5 = 60 items.
   Each bucket is ranked by score independently, so Signals/Evergreens never
-  push new trends out of the 25, and vice versa.
+  push new trends out of the 50, and vice versa.
 
 Nothing here scrapes, posts, contacts a creator, or buys anything. Collection
 is a separate step; this script only normalizes, ranks, caps and validates.
@@ -54,16 +54,16 @@ from datetime import datetime, timezone
 from email.utils import format_datetime
 from xml.sax.saxutils import escape
 
-MAX_NEW = 25
+MAX_NEW = 50
 MAX_SIGNAL = 5
 MAX_EVERGREEN = 5
-MAX_ITEMS = MAX_NEW + MAX_SIGNAL + MAX_EVERGREEN  # 35
+MAX_ITEMS = MAX_NEW + MAX_SIGNAL + MAX_EVERGREEN  # 60
 MIN_CANDIDATES = 100
 FEED_TITLE = "Daily Social Trends"
 FEED_LINK = "https://atgabelotto.github.io/trends-feed/"  # GitHub Pages URL once enabled
 FEED_DESC = (
     "Daily raw social trends across Instagram, TikTok and Pinterest, "
-    "whittled from 100+ candidates to 25 new trends by virality, growth rate "
+    "whittled from 100+ candidates to 50 new trends by virality, growth rate "
     "and sentiment, plus up to 5 Signals (still trending after 1 week) and "
     "up to 5 Evergreens (still trending after 2 weeks, expiring after 3 weeks). "
     "Client tags are filters for the reader, not a filter on the feed."
@@ -190,7 +190,7 @@ def main():
     with open(out_path, "w") as f:
         f.write("\n".join(out) + "\n")
 
-    # Validate: must parse as XML, and must have <= 25 items.
+    # Validate: must parse as XML, and must have <= 60 items.
     tree = ET.parse(out_path)
     n = len(tree.getroot().find("channel").findall("item"))
     assert n <= MAX_ITEMS, f"too many items: {n}"
