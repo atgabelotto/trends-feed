@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <rss version="2.0">
   <channel>
     <title>Daily Social Trends</title>
     <link>https://atgabelotto.github.io/trends-feed/</link>
     <description>Daily raw social trends across Instagram, TikTok and Pinterest, whittled from 100+ candidates to 50 new trends by virality, growth rate and sentiment, plus up to 5 Signals (still trending after 1 week) and up to 5 Evergreens (still trending after 2 weeks, expiring after 3 weeks). Client tags are filters for the reader, not a filter on the feed.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 12 Nov 2026 12:34:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:46:32 +0000</lastBuildDate>
     <item>
       <title>Marnie Cusk — Paper Moon Static sound</title>
       <link>https://tokchart.com/tiktok-trending-sounds/canada</link>
@@ -387,66 +387,6 @@
       <category>New</category>
     </item>
     <item>
-      <title>Made to Spark — Beaded tinsel</title>
-      <link>https://madetospark.com/pinterest-trends</link>
-      <guid isPermaLink="true">https://madetospark.com/pinterest-trends</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Beaded tinsel searches are up 100x+ vs October, joint-fastest November riser on Pinterest. A DIY Christmas decor material surging as pinners plan holiday decorating early. Engagement: 100x+ searches vs October (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>other</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Made to Spark — Simple November nails</title>
-      <link>https://madetospark.com/pinterest-trends</link>
-      <guid isPermaLink="true">https://madetospark.com/pinterest-trends</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Simple November nails are up 86x vs October, the month's top beauty riser. November's own manicure moment, riding the seasonal nail wave. Engagement: 86x searches vs October (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>beauty</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>PinPinterest — Kids room ideas</title>
-      <link>https://pinpinterest.com/blog/rising-on-pinterest-2026-11</link>
-      <guid isPermaLink="true">https://pinpinterest.com/blog/rising-on-pinterest-2026-11</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <description>New today. Kids room ideas more than doubled, up 131% over 30 days. Storage is the angle: low cubbies, wall storage, dollar-store bins and IKEA hacks. Engagement: +131% over 30 days (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>other</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>PinPinterest — Easy cheap meals for large families</title>
-      <link>https://pinpinterest.com/blog/rising-on-pinterest-2026-11</link>
-      <guid isPermaLink="true">https://pinpinterest.com/blog/rising-on-pinterest-2026-11</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <description>New today. Easy cheap meals for large families doubled, up 100% over 30 days. Budget is the whole food story: dinners under $1 a serving, feeding a crowd for less. Engagement: +100% over 30 days (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>food</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Tailwind — Christmas gift ideas for mom</title>
-      <link>https://www.tailwindapp.com/blog/pinterest-holiday-shopping-season</link>
-      <guid isPermaLink="true">https://www.tailwindapp.com/blog/pinterest-holiday-shopping-season</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <description>New today. Christmas gift ideas for mom are up 200% month over month per Pinterest Trends (US, week of Oct 5). Gift searches have doubled or more in the past month and the climb steepens mid-November. Engagement: Up 200% month over month (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>other</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Retail Gazette — Frosted makeup</title>
-      <link>https://www.retailgazette.co.uk/blog/2026/10/pinterests-head-of-beauty-reveals/</link>
-      <guid isPermaLink="true">https://www.retailgazette.co.uk/blog/2026/10/pinterests-head-of-beauty-reveals/</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <description>New today. Frosted makeup searches are up 286% in Pinterest's first-ever Beauty Trend Report. The Arctic Frost trend points to metallic finishes as the season's defining beauty look. Engagement: Searches up 286% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>beauty</category>
-      <category>New</category>
-    </item>
-    <item>
       <title>Tate McRae — Housewife sound</title>
       <link>https://kabo.sh/tools/trending-tiktok-sounds</link>
       <guid isPermaLink="true">https://kabo.sh/tools/trending-tiktok-sounds</guid>
@@ -616,6 +556,72 @@
       <category>culture</category>
       <category>New</category>
       <category>Trend-scrub appendix</category>
+    </item>
+    <item>
+      <title>@_socialsam_ — Carousel trends blowing up: Scratch to Reveal, Photo Dump on a Rope, Bad Reviews, It's Cringe Until, Fill the Cart, Signs You Can't Ignore</title>
+      <link>https://www.instagram.com/p/DfPpqCTlpk0/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>User-supplied — Samanta Cimerman's Nov 2 roundup of carousel formats blowing up right now: Scratch to Reveal (heart overlays hiding a product or coupon), Photo Dump on a Rope (Polaroid-style monthly recap), Bad Reviews (ironic 1-star reviews that are actually compliments), It's Cringe Until... (awkward-start-to-brand-deals creator journey), Fill the Cart (products added to a basket one by one), and Signs You Can't Ignore (visual-pun reveal). Plug-and-play templates offered in the comments. Engagement: 457 likes, 214 comments (verified). Score: virality 3/5 + growth 3/5 + sentiment 4/5 = 10/15.</description>
+      <guid isPermaLink="true">https://www.instagram.com/p/DfPpqCTlpk0/</guid>
+      <category>instagram</category>
+      <category>other</category>
+      <category>New</category>
+      <category>User-supplied</category>
+    </item>
+    <item>
+      <title>@marketingwhato — November trend breakdowns: Human Made, Split Screens, Game Character, Plot Twist, Hard Core Reminder, ChatGPT Convo</title>
+      <link>https://www.instagram.com/p/DfM_-R5CXgN/</link>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <description>User-supplied — HATO's Nov 1 marketer roundup dissecting six November formats, each with its hook, big idea and how a brand can reuse the mechanism: Human Made (handmade storytelling as luxury vs AI perfection), Split Screens (staff interaction paired with product close-ups, e.g. Calmaa coffee), Game Character (gamified loyalty, e.g. Sweetgreen points with a progress bar), Plot Twist (good-Samaritan moment at a thrift store), Hard Core Reminder (handwritten hook: put the phone down, do your nails), and ChatGPT as a third-party validator for product praise. Engagement: 242 likes (verified). Score: virality 3/5 + growth 3/5 + sentiment 3/5 = 9/15.</description>
+      <guid isPermaLink="true">https://www.instagram.com/p/DfM_-R5CXgN/</guid>
+      <category>instagram</category>
+      <category>other</category>
+      <category>New</category>
+      <category>User-supplied</category>
+    </item>
+    <item>
+      <title>@reachmedia.co — 10/10 Habits</title>
+      <link>https://www.instagram.com/reel/DfWZvHFAP4p/</link>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <description>User-supplied — Reach Media's Trend Thursdays format: share 10 specific habits that help your audience get a result they actually want — start easy, build up to the habits that take consistency. Built to be saved: hair salons (10/10 habits for healthier hair), Pilates studios, social media managers. Comment 'HABITS' for 25 industry examples. Engagement: 788 likes, 651 comments (verified). Score: virality 4/5 + growth 4/5 + sentiment 4/5 = 12/15. Sound: Sunshine (Instrumental) - Twista.</description>
+      <guid isPermaLink="true">https://www.instagram.com/reel/DfWZvHFAP4p/</guid>
+      <category>instagram</category>
+      <category>other</category>
+      <category>New</category>
+      <category>User-supplied</category>
+    </item>
+    <item>
+      <title>@friday_marketing_ — November trends: What to Order, Festive Switch, Distract the Customer, Transition Looks, Team Reactions, All I Want for Christmas, Upside Down, Tell Me I'm Handsome</title>
+      <link>https://www.instagram.com/p/Dfkj1e1GPj1/</link>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description>User-supplied — Friday Marketing's November Part 1 trend watch — eight formats: What to Order (fast visual product/food showcase), Festive Switch (quick-cut outfit change to Santa hat/red apron for holiday announcements), Distract the Customer (staff entertain a customer while a coworker finishes an order), Transition Looks (lift an item into frame to reveal an outfit change), Team Reactions (employees act out customer scenarios), All I Want for Christmas (teaser-build to a product reveal on the song), Upside Down (empty-to-full product transformation synced to music), and Tell Me I'm Handsome (server jokes a drink is free if complimented). Engagement: 677 likes, 6 comments (verified). Score: virality 3/5 + growth 4/5 + sentiment 4/5 = 11/15.</description>
+      <guid isPermaLink="true">https://www.instagram.com/p/Dfkj1e1GPj1/</guid>
+      <category>instagram</category>
+      <category>other</category>
+      <category>New</category>
+      <category>User-supplied</category>
+    </item>
+    <item>
+      <title>@yoursocialteam — The Perfect Pause</title>
+      <link>https://www.instagram.com/reel/DNezgFFuKm9/</link>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      <description>User-supplied — Your Social Team's interactive Reel: viewers tap the screen at the perfect moment to align two images — designed to be watched on loop, pushing watch time and completion. Canva how-to in the caption (cutout sliding left to right, white outline, trim to the exact alignment frames) or templates via @yourtemplateclub. Note: this post is from Aug 17, 2025 — a proven interactive format, not a new November trend. Engagement: 2,480 likes, 457 comments (verified). Score: virality 3/5 + growth 2/5 + sentiment 4/5 = 9/15. Sound: Original audio.</description>
+      <guid isPermaLink="true">https://www.instagram.com/reel/DNezgFFuKm9/</guid>
+      <category>instagram</category>
+      <category>other</category>
+      <category>New</category>
+      <category>User-supplied</category>
+    </item>
+    <item>
+      <title>@itsrachellholt — I'm not judging you but</title>
+      <link>https://www.instagram.com/reel/DfFkwrspJYV/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>User-supplied — Rachel Holt's Oct 29 format: 'I'm not judging you but...' — creators drop a niche hot take as the hook, then write one for commenters' niches in the replies. Comment-your-niche mechanic built in. Engagement: 1,424 likes, 233 comments (verified). Score: virality 4/5 + growth 3/5 + sentiment 4/5 = 11/15. Sound: Original audio.</description>
+      <guid isPermaLink="true">https://www.instagram.com/reel/DfFkwrspJYV/</guid>
+      <category>instagram</category>
+      <category>comedy</category>
+      <category>New</category>
+      <category>User-supplied</category>
     </item>
   </channel>
 </rss>
