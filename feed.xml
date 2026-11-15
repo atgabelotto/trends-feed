@@ -1,616 +1,571 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Daily Social Trends</title>
-    <link>https://atgabelotto.github.io/trends-feed/</link>
-    <description>Daily raw social trends across Instagram, TikTok and Pinterest, whittled from 100+ candidates to 50 new trends by virality, growth rate and sentiment, plus up to 5 Signals (still trending after 1 week) and up to 5 Evergreens (still trending after 2 weeks, expiring after 3 weeks). Client tags are filters for the reader, not a filter on the feed.</description>
-    <language>en-ca</language>
-    <lastBuildDate>Sat, 14 Nov 2026 12:35:48 +0000</lastBuildDate>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>Daily Social Trends</title>
+<link>https://atgabelotto.github.io/trends-feed/</link>
+<description>Daily raw social trends across Instagram, TikTok and Pinterest, whittled from 100+ candidates to 50 new trends by virality, growth rate and sentiment, plus up to 5 Signals (still trending after 1 week) and up to 5 Evergreens (still trending after 2 weeks, expiring after 3 weeks). Client tags are filters for the reader, not a filter on the feed.</description>
+<language>en-ca</language>
+<lastBuildDate>Sun, 15 Nov 2026 12:37:18 +0000</lastBuildDate>
+<item>
+<title>Pinterest Creators — Throw a Whimsy Party</title>
+<link>https://create.pinterest.com/en-GB/creators/trends/</link>
+<guid isPermaLink="true">https://create.pinterest.com/en-GB/creators/trends/</guid>
+<pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Pinterest Creators featured trend: playful, over-the-top parties — paper chains, handmade crowns, bedazzled bakes. Engagement: engagement not verified (UNVERIFIED engagement). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>other</category>
+<category>New</category>
+</item>
+<item>
+<title>Prince Royce — Entiende, corazón glow-up (Postdom)</title>
+<link>https://postdom.com/blog/tiktok-trends</link>
+<guid isPermaLink="true">https://postdom.com/blog/tiktok-trends</guid>
+<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Spotted Nov 10: flip from an awkward old photo to a glow-up shot on the 'entiende, entiende, corazón' beat. Also #1 song on Tokchart's songs chart. Engagement: 680.6K videos on the sound; #rechazame 60,935 videos (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15. Sound: Recházame.</description>
+<category>tiktok</category>
+<category>culture</category>
+<category>New</category>
+</item>
+<item>
+<title>NailsWire — Lace nails</title>
+<link>https://www.nailswire.com/blog/10-trending-nail-art-ideas-taking-over-pinterest-in-2026</link>
+<guid isPermaLink="true">https://www.nailswire.com/blog/10-trending-nail-art-ideas-taking-over-pinterest-in-2026</guid>
+<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Lace nails are 2026's biggest nail surprise, with Pinterest searches up 215%: white lace over nude, black lace, bridal lace. Engagement: +215% Pinterest growth (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>beauty</category>
+<category>New</category>
+</item>
+<item>
+<title>NailsWire — Jade marble nails</title>
+<link>https://www.nailswire.com/blog/the-only-nail-colors-you-need-in-2026</link>
+<guid isPermaLink="true">https://www.nailswire.com/blog/the-only-nail-colors-you-need-in-2026</guid>
+<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Jade marble is the luxury nail colour of 2026: rich green with stone-inspired patterns. Engagement: engagement not verified (UNVERIFIED engagement). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>beauty</category>
+<category>New</category>
+</item>
+<item>
+<title>NailsWire — Icy blue chrome</title>
+<link>https://www.nailswire.com/blog/the-only-nail-colors-you-need-in-2026</link>
+<guid isPermaLink="true">https://www.nailswire.com/blog/the-only-nail-colors-you-need-in-2026</guid>
+<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Icy blue chrome is replacing traditional silver as the most requested chrome finish. Engagement: engagement not verified (UNVERIFIED engagement). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>beauty</category>
+<category>New</category>
+</item>
+<item>
+<title>New Engen — Chipmunks dance (New Engen)</title>
+<link>https://newengen.com/insights/tiktok-trends/</link>
+<guid isPermaLink="true">https://newengen.com/insights/tiktok-trends/</guid>
+<pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Groups of three hit a quick goofy routine to a sped-up, chipmunk-voiced 'You Spin Me Round'; dance studios posting tutorials. Also on JumpOnTheTrend's TikTok page (10.3M views on one version). Engagement: engagement not verified (UNVERIFIED engagement). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15. Sound: You Spin Me Round (chipmunk edit).</description>
+<category>tiktok</category>
+<category>dance</category>
+<category>New</category>
+</item>
+<item>
+<title>Finneas — My Moon My Man Soft Launch</title>
+<link>https://newengen.com/insights/instagram-trends/</link>
+<guid isPermaLink="true">https://newengen.com/insights/instagram-trends/</guid>
+<pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. New Engen IG #1: Finneas's dreamy cover is the soundtrack for soft launches — hands, silhouettes, two coffee orders. Top trend on TikTok this week and crossing to Instagram fast, with new Reels landing every day. Engagement: engagement not verified (UNVERIFIED engagement). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15. Sound: My Moon My Man - Finneas (Feist cover).</description>
+<category>instagram</category>
+<category>culture</category>
+<category>New</category>
+</item>
+<item>
+<title>Pinterest Business Community — Disguise a Turkey</title>
+<link>https://community.pinterest.biz/t/pbc-weekly-trends-report-november-13th-2026/53354</link>
+<guid isPermaLink="true">https://community.pinterest.biz/t/pbc-weekly-trends-report-november-13th-2026/53354</guid>
+<pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. PBC Weekly Trends Report Nov 13 (theme: Fall Into Winter): the turkey-disguise school project is up 500%. Engagement: +500% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>other</category>
+<category>New</category>
+</item>
+<item>
+<title>Pinterest Business Community — Starbucks holiday drinks</title>
+<link>https://community.pinterest.biz/t/pbc-weekly-trends-report-november-13th-2026/53354</link>
+<guid isPermaLink="true">https://community.pinterest.biz/t/pbc-weekly-trends-report-november-13th-2026/53354</guid>
+<pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. PBC Weekly Trends Report Nov 13: Starbucks holiday drinks up 3,000% — the season's drink moment. Engagement: +3,000% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>food</category>
+<category>New</category>
+</item>
+<item>
+<title>Social Media Today — Gift card presentation ideas</title>
+<link>https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/</link>
+<guid isPermaLink="true">https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/</guid>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Gift card presentation ideas up 620% in Pinterest's holiday data. Engagement: searches +620% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>other</category>
+<category>New</category>
+</item>
+<item>
+<title>Social Media Today — Useful DIY gifts</title>
+<link>https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/</link>
+<guid isPermaLink="true">https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/</guid>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Useful DIY gifts up 1,370% — handmade, practical gifting is the season's biggest mover. Engagement: searches +1,370% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>other</category>
+<category>New</category>
+</item>
+<item>
+<title>Social Media Today — Christmas appetizer inspiration</title>
+<link>https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/</link>
+<guid isPermaLink="true">https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/</guid>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Christmas appetizer inspiration up 1,100% in Pinterest's holiday data. Engagement: searches +1,100% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>food</category>
+<category>New</category>
+</item>
+<item>
+<title>Social Media Today — Christmas coquette nails</title>
+<link>https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/</link>
+<guid isPermaLink="true">https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/</guid>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Christmas coquette nails up 969% year over year. Engagement: searches +969% YoY (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>beauty</category>
+<category>New</category>
+</item>
+<item>
+<title>The Polish Journal — Brown chrome nails</title>
+<link>https://thepolishjournal.blogspot.com/2026/11/</link>
+<guid isPermaLink="true">https://thepolishjournal.blogspot.com/2026/11/</guid>
+<pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Brown chrome leads November 2026 nails, alongside aura nails and deep reds. Engagement: engagement not verified (UNVERIFIED engagement). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>beauty</category>
+<category>New</category>
+</item>
+<item>
+<title>The Polish Journal — November nails</title>
+<link>https://thepolishjournal.blogspot.com/2026/11/</link>
+<guid isPermaLink="true">https://thepolishjournal.blogspot.com/2026/11/</guid>
+<pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. November nails searches are up 200% month on month on Pinterest, with the month having its own identity this year. Engagement: searches +200% MoM (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>beauty</category>
+<category>New</category>
+</item>
+<item>
+<title>SimpleNailey — Polka dot cat eye nails</title>
+<link>https://www.simplenailey.com/most-searched-nail-trends-2026-pinterest/</link>
+<guid isPermaLink="true">https://www.simplenailey.com/most-searched-nail-trends-2026-pinterest/</guid>
+<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Pinterest's Beauty Trend Report: polka dot cat eye searches grew more than sixteenfold. Engagement: searches +1,585% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>beauty</category>
+<category>New</category>
+</item>
+<item>
+<title>SimpleNailey — Jelly pink chrome nails</title>
+<link>https://www.simplenailey.com/most-searched-nail-trends-2026-pinterest/</link>
+<guid isPermaLink="true">https://www.simplenailey.com/most-searched-nail-trends-2026-pinterest/</guid>
+<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Jelly pink chrome searches grew nearly fifteenfold, per Pinterest's Beauty Trend Report. Engagement: searches +1,469% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>beauty</category>
+<category>New</category>
+</item>
+<item>
+<title>SimpleNailey — Milky white chrome almond nails</title>
+<link>https://www.simplenailey.com/most-searched-nail-trends-2026-pinterest/</link>
+<guid isPermaLink="true">https://www.simplenailey.com/most-searched-nail-trends-2026-pinterest/</guid>
+<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Milky white chrome on almond nails rose around fifteenfold; echoes Pantone's Cloud Dancer. Engagement: searches +1,402% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>beauty</category>
+<category>New</category>
+</item>
+<item>
+<title>SimpleNailey — Caramel nude nails</title>
+<link>https://www.simplenailey.com/most-searched-nail-trends-2026-pinterest/</link>
+<guid isPermaLink="true">https://www.simplenailey.com/most-searched-nail-trends-2026-pinterest/</guid>
+<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Café nails: caramel nude searches grew more than ninefold. Engagement: searches +943% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>beauty</category>
+<category>New</category>
+</item>
+<item>
+<title>SimpleNailey — Coffee nails</title>
+<link>https://www.simplenailey.com/most-searched-nail-trends-2026-pinterest/</link>
+<guid isPermaLink="true">https://www.simplenailey.com/most-searched-nail-trends-2026-pinterest/</guid>
+<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Coffee nails, the other half of the café-nail trend, up 922%. Engagement: searches +922% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>beauty</category>
+<category>New</category>
+</item>
+<item>
+<title>Made to Spark — Simple November nails</title>
+<link>https://madetospark.com/pinterest-trends</link>
+<guid isPermaLink="true">https://madetospark.com/pinterest-trends</guid>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Simple November nails is up 86x searches vs October on Pinterest (US, Pinterest Trends API, read Nov 2). The month's defining nail search; simple seasonal manicures lead November beauty. Engagement: 86x searches vs October (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>beauty</category>
+<category>New</category>
+</item>
+<item>
+<title>Made to Spark — Easy cat makeup</title>
+<link>https://madetospark.com/pinterest-trends</link>
+<guid isPermaLink="true">https://madetospark.com/pinterest-trends</guid>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Easy cat makeup is up 66x searches vs October on Pinterest (US, Pinterest Trends API, read Nov 2). Quick Halloween makeup still heavily searched into November. Engagement: 66x searches vs October (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>beauty</category>
+<category>New</category>
+</item>
+<item>
+<title>Made to Spark — Whimsy Christmas decor</title>
+<link>https://madetospark.com/pinterest-trends</link>
+<guid isPermaLink="true">https://madetospark.com/pinterest-trends</guid>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Whimsy Christmas decor is up 10x searches vs October on Pinterest (US, Pinterest Trends API, read Nov 2). Playful, unserious Christmas decorating is the season's breakout decor mood; Pinterest made it an Editors' Pick. Engagement: 10x searches vs October (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>other</category>
+<category>New</category>
+</item>
+<item>
+<title>Pinsearch — Christmas nails</title>
+<link>https://pinsearch.co/most-searched-pinterest-keywords/</link>
+<guid isPermaLink="true">https://pinsearch.co/most-searched-pinterest-keywords/</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Christmas nails is one of Pinterest's most-searched keywords at ~11M searches a month (Pinsearch November 2026 edition, 1.5M keywords tracked). Evergreen volume, not a spike. Engagement: ~11M searches/month (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>beauty</category>
+<category>New</category>
+</item>
+<item>
+<title>Pinsearch — Gift ideas</title>
+<link>https://pinsearch.co/most-searched-pinterest-keywords/</link>
+<guid isPermaLink="true">https://pinsearch.co/most-searched-pinterest-keywords/</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Gift ideas peaks every December (~3M searches/month) and the next peak is within 60 days; Pinsearch flags it as publish-now (November 2026 edition). Engagement: ~3M searches/month, peaks December (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>other</category>
+<category>New</category>
+</item>
+<item>
+<title>Pinsearch — DIY gifts</title>
+<link>https://pinsearch.co/most-searched-pinterest-keywords/</link>
+<guid isPermaLink="true">https://pinsearch.co/most-searched-pinterest-keywords/</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. DIY gifts peaks every December (~1M searches/month) and the next peak is within 60 days; Pinsearch flags it as publish-now (November 2026 edition). Engagement: ~1M searches/month, peaks December (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>other</category>
+<category>New</category>
+</item>
+<item>
+<title>Pinsearch — Christmas nail designs</title>
+<link>https://pinsearch.co/most-searched-pinterest-keywords/</link>
+<guid isPermaLink="true">https://pinsearch.co/most-searched-pinterest-keywords/</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Christmas nail designs peaks every December (~912K searches/month) and the next peak is within 60 days; Pinsearch flags it as publish-now (November 2026 edition). Engagement: ~912K searches/month, peaks December (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>beauty</category>
+<category>New</category>
+</item>
+<item>
+<title>Retail Gazette — Frosted makeup</title>
+<link>https://www.retailgazette.co.uk/blog/2026/10/pinterests-head-of-beauty-reveals/</link>
+<guid isPermaLink="true">https://www.retailgazette.co.uk/blog/2026/10/pinterests-head-of-beauty-reveals/</guid>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<description>New today. Pinterest's Arctic Frost trend: frosted makeup searches up 286% — metallic finishes lead beauty. Engagement: searches +286% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>beauty</category>
+<category>New</category>
+</item>
+<item>
+<title>Retail Gazette — Solid perfume aesthetic</title>
+<link>https://www.retailgazette.co.uk/blog/2026/10/pinterests-head-of-beauty-reveals/</link>
+<guid isPermaLink="true">https://www.retailgazette.co.uk/blog/2026/10/pinterests-head-of-beauty-reveals/</guid>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<description>New today. Eau So Cosy trend: solid perfume aesthetic up 333%, sweet nostalgic scents. Engagement: searches +333% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>beauty</category>
+<category>New</category>
+</item>
+<item>
+<title>Resparked — Handmade Christmas gift ideas</title>
+<link>https://greatfulmoments.com/handmade-christmas-gifts-are-trending-pinterest-searches-jump-400/</link>
+<guid isPermaLink="true">https://greatfulmoments.com/handmade-christmas-gifts-are-trending-pinterest-searches-jump-400/</guid>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<description>New today. Resparked research (Oct 20): handmade Christmas gift idea searches up 400% year over year on Pinterest. Engagement: searches +400% YoY (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>other</category>
+<category>New</category>
+</item>
+<item>
+<title>Tailwind — Christmas gift ideas for mom</title>
+<link>https://www.tailwindapp.com/blog/pinterest-holiday-shopping-season</link>
+<guid isPermaLink="true">https://www.tailwindapp.com/blog/pinterest-holiday-shopping-season</guid>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+<description>New today. Pinterest Trends (US, week of Oct 5): gift ideas for mom up 200% month over month. Engagement: +200% MoM (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>other</category>
+<category>New</category>
+</item>
+<item>
+<title>Tailwind — Christmas gift basket ideas</title>
+<link>https://www.tailwindapp.com/blog/pinterest-holiday-shopping-season</link>
+<guid isPermaLink="true">https://www.tailwindapp.com/blog/pinterest-holiday-shopping-season</guid>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+<description>New today. Christmas gift basket ideas up 100% month over month. Engagement: +100% MoM (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>other</category>
+<category>New</category>
+</item>
+<item>
+<title>PinPinterest — Laced Up</title>
+<link>https://pinpinterest.com/tools/pinterest-trends</link>
+<guid isPermaLink="true">https://pinpinterest.com/tools/pinterest-trends</guid>
+<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+<description>New today. Pinterest Predicts 2026: lace on everything — nails, belts, bandanas, doilies, makeup. Engagement: lace nails +215% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>beauty</category>
+<category>New</category>
+</item>
+<item>
+<title>Market With Miranda — Thanksgiving nails</title>
+<link>https://marketwithmiranda.com/november-pinterest-trends/?amp=1</link>
+<guid isPermaLink="true">https://marketwithmiranda.com/november-pinterest-trends/?amp=1</guid>
+<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+<description>New today. Thanksgiving nails, up 600%, part of the holiday's full-day planning. Engagement: +600% MoM (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>beauty</category>
+<category>New</category>
+</item>
+<item>
+<title>Market With Miranda — Green bean casserole</title>
+<link>https://marketwithmiranda.com/november-pinterest-trends/?amp=1</link>
+<guid isPermaLink="true">https://marketwithmiranda.com/november-pinterest-trends/?amp=1</guid>
+<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+<description>New today. Green bean casserole is one of November's biggest food spikes at +2,500%. Engagement: +2,500% MoM (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>food</category>
+<category>New</category>
+</item>
+<item>
+<title>Market With Miranda — Sweet potato casserole</title>
+<link>https://marketwithmiranda.com/november-pinterest-trends/?amp=1</link>
+<guid isPermaLink="true">https://marketwithmiranda.com/november-pinterest-trends/?amp=1</guid>
+<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+<description>New today. Sweet potato casserole matches green bean at +2,500%. Engagement: +2,500% MoM (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>food</category>
+<category>New</category>
+</item>
+<item>
+<title>Market With Miranda — Happy Thanksgiving</title>
+<link>https://marketwithmiranda.com/november-pinterest-trends/?amp=1</link>
+<guid isPermaLink="true">https://marketwithmiranda.com/november-pinterest-trends/?amp=1</guid>
+<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+<description>New today. Greeting searches explode as Thanksgiving Day approaches. Engagement: +10,000% MoM (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>other</category>
+<category>New</category>
+</item>
+<item>
+<title>Market With Miranda — Cranberry recipes</title>
+<link>https://marketwithmiranda.com/november-pinterest-trends/?amp=1</link>
+<guid isPermaLink="true">https://marketwithmiranda.com/november-pinterest-trends/?amp=1</guid>
+<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+<description>New today. Cranberry recipes bridge Thanksgiving and Christmas, a six-week trend worth watching. Engagement: +1,000% MoM (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>food</category>
+<category>New</category>
+</item>
+<item>
+<title>Market With Miranda — Christmas nails</title>
+<link>https://marketwithmiranda.com/november-pinterest-trends/?amp=1</link>
+<guid isPermaLink="true">https://marketwithmiranda.com/november-pinterest-trends/?amp=1</guid>
+<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+<description>New today. Christmas nails were a top-ten November search last year, up 800%. Engagement: +800% MoM (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>beauty</category>
+<category>New</category>
+</item>
+<item>
+<title>Market With Miranda — Elf on the shelf ideas</title>
+<link>https://marketwithmiranda.com/november-pinterest-trends/?amp=1</link>
+<guid isPermaLink="true">https://marketwithmiranda.com/november-pinterest-trends/?amp=1</guid>
+<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+<description>New today. Elf on the Shelf planning starts in November, up 600%. Engagement: +600% MoM (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>other</category>
+<category>New</category>
+</item>
+<item>
+<title>Market With Miranda — Disguise a gingerbread man</title>
+<link>https://marketwithmiranda.com/november-pinterest-trends/?amp=1</link>
+<guid isPermaLink="true">https://marketwithmiranda.com/november-pinterest-trends/?amp=1</guid>
+<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+<description>New today. The gingerbread-man disguise variant, up 3,500%. Engagement: +3,500% MoM (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>other</category>
+<category>New</category>
+</item>
+<item>
+<title>SIDEPIECE &amp; 95 South — Can I Ride (Kabo)</title>
+<link>https://kabo.sh/tools/trending-tiktok-sounds</link>
+<guid isPermaLink="true">https://kabo.sh/tools/trending-tiktok-sounds</guid>
+<pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. New #1 on Kabo's Nov 15 snapshot with the biggest daily gain on the board (+15.2K videos). Kabo-reported figures, not independently verified. Also #22 in Revid's 30-day index. Engagement: 499.5K videos (+15.2K/day, +3.1%); top-video median 5M views, 13% like rate (UNVERIFIED engagement). Score: virality 5/5 + growth 5/5 + sentiment 4/5 = 14/15. Sound: Can I Ride.</description>
+<category>tiktok</category>
+<category>culture</category>
+<category>New</category>
+</item>
+<item>
+<title>Tate McRae — Housewife (Kabo)</title>
+<link>https://kabo.sh/tools/trending-tiktok-sounds</link>
+<guid isPermaLink="true">https://kabo.sh/tools/trending-tiktok-sounds</guid>
+<pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Was #1 on Kabo Nov 14 (668.3K videos), now #2 as Can I Ride overtakes it. The Housewife POV glow-up format keeps climbing; Kabo-reported figures. Engagement: 678.2K videos (+9.9K/day, +1.5%); top-video median 6M views, 15% like rate (UNVERIFIED engagement). Score: virality 5/5 + growth 4/5 + sentiment 5/5 = 14/15. Sound: Housewife.</description>
+<category>tiktok</category>
+<category>culture</category>
+<category>New</category>
+</item>
+<item>
+<title>Marnie Cusk — Paper Moon Static (Tokchart Canada)</title>
+<link>https://tokchart.com/tiktok-trending-sounds/canada</link>
+<guid isPermaLink="true">https://tokchart.com/tiktok-trending-sounds/canada</guid>
+<pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Canada's top named sound: 2M videos and the strongest named-sound daily gain in Canada. Also #1 in Revid's 30-day viral index and 303 creators on Trenmo. Engagement: 2M videos (+28,574/day) (verified). Score: virality 5/5 + growth 5/5 + sentiment 4/5 = 14/15. Sound: Paper Moon Static.</description>
+<category>tiktok</category>
+<category>culture</category>
+<category>New</category>
+</item>
+<item>
+<title>Axby — Christmas by Axby (Tokchart Canada)</title>
+<link>https://tokchart.com/tiktok-trending-sounds/canada</link>
+<guid isPermaLink="true">https://tokchart.com/tiktok-trending-sounds/canada</guid>
+<pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Christmas wave in Canada: 716K videos and +24K/day. Postdom's 'The tree goes up' trend uses the same Christmas sound (1.2M videos). Engagement: 716K videos (+24,433/day) (verified). Score: virality 4/5 + growth 5/5 + sentiment 5/5 = 14/15. Sound: Christmas.</description>
+<category>tiktok</category>
+<category>culture</category>
+<category>New</category>
+</item>
+<item>
+<title>Mariah Carey — All I Want for Christmas Is You (Tokchart songs)</title>
+<link>https://tokchart.com/tiktok-trending-songs</link>
+<guid isPermaLink="true">https://tokchart.com/tiktok-trending-songs</guid>
+<pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. #5 on Tokchart's songs chart (Christmas pop); the seasonal wave is now across every tracker. No counts shown on the chart page. Engagement: engagement not verified (UNVERIFIED engagement). Score: virality 5/5 + growth 4/5 + sentiment 5/5 = 14/15. Sound: All I Want for Christmas Is You.</description>
+<category>tiktok</category>
+<category>culture</category>
+<category>New</category>
+</item>
+<item>
+<title>ILLIT — You're Under Arrest (Revid)</title>
+<link>https://www.revid.ai/viral-tiktok-songs</link>
+<guid isPermaLink="true">https://www.revid.ai/viral-tiktok-songs</guid>
+<pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. #1 in Revid's weekly sample of popular posts (1K sampled this week) and #2 in its 30-day viral index; fastest-rising sound in the sample. Sample-based figures, not TikTok totals. Engagement: 4 posts by 4 creators in this week's sample; 2M views; Rising x1.6 (UNVERIFIED engagement). Score: virality 5/5 + growth 5/5 + sentiment 4/5 = 14/15. Sound: You're Under Arrest.</description>
+<category>tiktok</category>
+<category>culture</category>
+<category>New</category>
+</item>
+<item>
+<title>SIDEPIECE &amp; 95 South — Can I Ride (Revid)</title>
+<link>https://www.revid.ai/viral-tiktok-songs</link>
+<guid isPermaLink="true">https://www.revid.ai/viral-tiktok-songs</guid>
+<pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. Cross-check: #1 on Kabo today (+15.2K videos/day) and in Revid's 30-day index; the day's breakout sound. Sample-based figures. Engagement: 2 viral videos; 107.7K likes; 2M views (UNVERIFIED engagement). Score: virality 5/5 + growth 5/5 + sentiment 4/5 = 14/15. Sound: Can I Ride.</description>
+<category>tiktok</category>
+<category>culture</category>
+<category>New</category>
+</item>
+<item>
+<title>NextBig — reunion stories after years apart (NextBig)</title>
+<link>https://nextbig.io/trending-on-tiktok</link>
+<guid isPermaLink="true">https://nextbig.io/trending-on-tiktok</guid>
+<pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. The fastest-growing TikTok search this week per NextBig (TikTok's own search index): emotional reunion stories after years apart. Note: NextBig's format is now category top-10s with no growth %, so figures are popularity index only, not like-for-like with earlier editions. Engagement: TikTok search popularity 263.0M (verified). Score: virality 5/5 + growth 4/5 + sentiment 5/5 = 14/15.</description>
+<category>tiktok</category>
+<category>culture</category>
+<category>New</category>
+</item>
+<item>
+<title>Bulin 47 — Bulin 47 (JumpOnTheTrend songs)</title>
+<link>https://jumponthetrend.app/trends/songs/</link>
+<guid isPermaLink="true">https://jumponthetrend.app/trends/songs/</guid>
+<pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+<description>New today. The longest-running trend on JumpOnTheTrend: a dembow beat under an improvised street freestyle, Day 35 and still rising. Views are the site's estimates, not verified counts. Engagement: ≈385M views (est.); Day 35 and still rising (UNVERIFIED engagement). Score: virality 5/5 + growth 4/5 + sentiment 5/5 = 14/15. Sound: Dame Hombro.</description>
+<category>tiktok</category>
+<category>dance</category>
+<category>New</category>
+</item>
+<item>
+<title>Made to Spark — Beaded tinsel</title>
+<link>https://madetospark.com/pinterest-trends</link>
+<guid isPermaLink="true">https://madetospark.com/pinterest-trends</guid>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<description>Signal — still trending, day 10 since first seen. Beaded tinsel is up 100x+ searches vs October on Pinterest (US, Pinterest Trends API, read Nov 2). DIY Christmas decor material surging as pinners plan holiday decorating early. Engagement: 100x+ searches vs October (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>other</category>
+<category>Signal</category>
+</item>
+<item>
+<title>Made to Spark — Turkey disguise project</title>
+<link>https://madetospark.com/pinterest-trends</link>
+<guid isPermaLink="true">https://madetospark.com/pinterest-trends</guid>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<description>Signal — still trending, day 10 since first seen. Turkey disguise project is up 36x searches vs October on Pinterest (US, Pinterest Trends API, read Nov 2). Classic school craft project; peak Thanksgiving classroom season. Engagement: 36x searches vs October (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>other</category>
+<category>Signal</category>
+</item>
+<item>
+<title>Pinsearch — Makeup tutorial</title>
+<link>https://pinsearch.co/most-searched-pinterest-keywords/</link>
+<guid isPermaLink="true">https://pinsearch.co/most-searched-pinterest-keywords/</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<description>Signal — still trending, day 9 since first seen. Makeup tutorial is climbing hard: last three months are +1,522% above the same months last year, at ~3M searches a month (Pinsearch rising list, November 2026). Engagement: ~3M searches/month, +1,522% vs last year (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>beauty</category>
+<category>Signal</category>
+</item>
+<item>
+<title>Pinsearch — Nail art ideas</title>
+<link>https://pinsearch.co/most-searched-pinterest-keywords/</link>
+<guid isPermaLink="true">https://pinsearch.co/most-searched-pinterest-keywords/</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<description>Signal — still trending, day 9 since first seen. Nail art ideas is climbing hard: last three months are +2,129% above the same months last year, at ~929K searches a month (Pinsearch rising list, November 2026). Engagement: ~929K searches/month, +2,129% vs last year (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>beauty</category>
+<category>Signal</category>
+</item>
+<item>
+<title>Pinsearch — Winter nails</title>
+<link>https://pinsearch.co/most-searched-pinterest-keywords/</link>
+<guid isPermaLink="true">https://pinsearch.co/most-searched-pinterest-keywords/</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<description>Signal — still trending, day 9 since first seen. Winter nails peaks every December (~5M searches/month) and the next peak is within 60 days; Pinsearch flags it as publish-now (November 2026 edition). Engagement: ~5M searches/month, peaks December (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
+<category>pinterest</category>
+<category>beauty</category>
+<category>Signal</category>
+</item>
     <item>
-      <title>Marnie Cusk — Paper Moon Static sound (Revid)</title>
-      <link>https://www.revid.ai/viral-tiktok-songs</link>
-      <guid isPermaLink="true">https://www.revid.ai/viral-tiktok-songs</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. #1 in Revid's 30-day index of 6.8K viral TikToks: 9 viral videos using it, 1.3M–5.7M views in sample — steady. Also #4 on Tokchart Canada with +40,901 videos/day — the most reused sound in viral TikToks this month. Engagement: 9 viral videos, 1.3M–5.7M views in sample (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15. Sound: Paper Moon Static.</description>
-      <category>tiktok</category>
-      <category>culture</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Tate McRae — Housewife sound (Revid)</title>
-      <link>https://www.revid.ai/viral-tiktok-songs</link>
-      <guid isPermaLink="true">https://www.revid.ai/viral-tiktok-songs</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. #13 in Revid's 30-day index: 3 viral videos, 12.8K–1M views in sample — down from 4 yesterday. Cross-checks with Kabo, where Housewife is back at #1 at 668.3K videos — the sound is everywhere this week. Engagement: 3 viral videos, 12.8K–1M views in sample (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15. Sound: Housewife.</description>
-      <category>tiktok</category>
-      <category>culture</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Marnie Cusk — Paper Moon Static Audio Trend</title>
-      <link>https://trenmo.app/content-ideas</link>
-      <guid isPermaLink="true">https://trenmo.app/content-ideas</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Still Trenmo's #1 trend at 334 creators this week, up from 277 — creators use the Paper Moon Static sound behind personal clips, family moments, artwork showcases and daily life highlights. Also #1 in Revid's 30-day index and #4 on Tokchart Canada. Engagement: 334 creators this week (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15. Sound: Paper Moon Static.</description>
-      <category>tiktok</category>
-      <category>culture</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Mariah Carey — Mariah's "It's Time"</title>
-      <link>https://newengen.com/insights/tiktok-trends/</link>
-      <guid isPermaLink="true">https://newengen.com/insights/tiktok-trends/</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. New Engen's #3 trend (updated Nov 13): Mariah Carey's annual 'It's Time' holiday kickoff soundtracks putting up decorations, ordering holiday drinks and declaring Christmas season open. Kabo counts 16.3M videos for her Christmas sound today. Engagement: 16.3M videos (+9.4K/day, Kabo) (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15. Sound: It's Time.</description>
-      <category>tiktok</category>
-      <category>culture</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Tate McRae — "Housewife" Outfit and Work Reveal</title>
-      <link>https://newengen.com/insights/tiktok-trends/</link>
-      <guid isPermaLink="true">https://newengen.com/insights/tiktok-trends/</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. New Engen's #12 trend (updated Nov 13): Tate McRae's 'Housewife' soundtracks confident outfit reveals and clips of creators doing the jobs that pay for them. Kabo counts 668.3K videos today and it is back at #1 there. Engagement: 668.3K videos (+13.2K/day, Kabo) (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15. Sound: Housewife.</description>
-      <category>tiktok</category>
-      <category>culture</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Social Media Today — Gift card presentation ideas</title>
-      <link>https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/</link>
-      <guid isPermaLink="true">https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Gift card presentation ideas searches are up 620%, per Pinterest's holiday shopping-season data shared Nov 12. Making a gift card feel like a real gift is a breakout search. Engagement: Searches up 620% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>other</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Social Media Today — Useful DIY gifts</title>
-      <link>https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/</link>
-      <guid isPermaLink="true">https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Useful DIY gifts searches are up 1,370%, per Pinterest's holiday shopping-season data shared Nov 12 — the single biggest holiday gift spike Pinterest reported. Engagement: Searches up 1,370% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>other</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Social Media Today — Christmas appetizer inspiration</title>
-      <link>https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/</link>
-      <guid isPermaLink="true">https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Christmas appetizer inspiration searches are up 1,100%, per Pinterest's holiday shopping-season data shared Nov 12. Holiday party food planning is surging. Engagement: Searches up 1,100% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>food</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Social Media Today — Christmas coquette nails</title>
-      <link>https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/</link>
-      <guid isPermaLink="true">https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Christmas coquette nails searches are up 969% year over year, per Pinterest's holiday shopping-season data shared Nov 12. Bows-and-lace festive nails are the season's nail breakout. Engagement: Searches up 969% year over year (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>beauty</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>NailsWire — Lace nails</title>
-      <link>https://www.nailswire.com/blog/10-trending-nail-art-ideas-taking-over-pinterest-in-2026</link>
-      <guid isPermaLink="true">https://www.nailswire.com/blog/10-trending-nail-art-ideas-taking-over-pinterest-in-2026</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Lace nails are back with +215% growth on Pinterest. Delicate embroidered-lace patterns, white lace over nude, black lace details and bridal lace are the year's biggest nail surprise. Engagement: +215% growth on Pinterest (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>beauty</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>NailsWire — Aura nails</title>
-      <link>https://www.nailswire.com/blog/the-aura-nails-trend-and-how-to-try-them-at-home</link>
-      <guid isPermaLink="true">https://www.nailswire.com/blog/the-aura-nails-trend-and-how-to-try-them-at-home</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Aura nails are the fastest-growing Pinterest nail trend at +428%. The dreamy airbrushed gradient-glow look, now in chrome aura, pastel aura and aura French tips, has real staying power. Engagement: +428% growth on Pinterest (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>beauty</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>NailsWire — Icy blue chrome nails</title>
-      <link>https://www.nailswire.com/blog/the-only-nail-colors-you-need-in-2026</link>
-      <guid isPermaLink="true">https://www.nailswire.com/blog/the-only-nail-colors-you-need-in-2026</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Icy blue chrome is replacing traditional silver as the most requested chrome of 2026. Cool blue undertones with reflective chrome powder, futuristic yet wearable. Engagement: Top 2026 nail colour; replacing silver chrome (UNVERIFIED engagement). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>beauty</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Tate McRae — Housewife "POV" Glow-Up</title>
-      <link>https://www.socialpilot.co/blog/tiktok-trends</link>
-      <guid isPermaLink="true">https://www.socialpilot.co/blog/tiktok-trends</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. SocialPilot's #2 format: POV lines on screen ('pov: you have surgery until 5 but dinner at 6') lip-synced to Tate McRae's 'Housewife' chorus. Its 313.7K count is stale next to Kabo's 655.1K today, but the format — confident POV glow-ups — is still peaking. Engagement: 313.7K videos (SocialPilot count, Oct 27–Nov 5) (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15. Sound: Housewife.</description>
-      <category>tiktok</category>
-      <category>culture</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Tate McRae — Housewife sound (SocialPilot)</title>
-      <link>https://www.socialpilot.co/blog/tiktok-trends</link>
-      <guid isPermaLink="true">https://www.socialpilot.co/blog/tiktok-trends</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. SocialPilot's #3 sound, stage Peak: out since Oct 15 and still climbing, with creators in the US, UK, Germany and the Netherlands. Its 313.7K count is stale — Kabo counts 655.1K today — but the sound itself is the week's biggest. Engagement: 313.7K videos (SocialPilot count, Oct 27–Nov 5) (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15. Sound: Housewife.</description>
-      <category>tiktok</category>
-      <category>culture</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Mariah Carey — It's time: the switch to Christmas</title>
-      <link>https://inmagic.ai/top-10-instagram-reels-to-try-this-week/</link>
-      <guid isPermaLink="true">https://inmagic.ai/top-10-instagram-reels-to-try-this-week/</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. The biggest format this week: one plain post-Halloween shot, then a cut to the full holiday version on the 'it's time' cue. Businesses use it to announce holiday bookings, menus and gift sets are open. Engagement: engagement not verified (UNVERIFIED engagement). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15. Sound: All I Want for Christmas Is You — Mariah Carey.</description>
-      <category>instagram</category>
-      <category>other</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Pinterest Business Community — November phone wallpaper</title>
-      <link>https://community.pinterest.biz/t/the-weekly-pbc-trend-report-october-6th-2026/53090</link>
-      <guid isPermaLink="true">https://community.pinterest.biz/t/the-weekly-pbc-trend-report-october-6th-2026/53090</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. November phone wallpaper is up 2,500% in the PBC weekly trend report for Nov 6. The week's single biggest spike, themed 'Serving Looks, Leftovers &amp; Lacquer'. Engagement: +2,500% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>other</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Pinterest Business Community — November nails</title>
-      <link>https://community.pinterest.biz/t/the-weekly-pbc-trend-report-october-6th-2026/53090</link>
-      <guid isPermaLink="true">https://community.pinterest.biz/t/the-weekly-pbc-trend-report-october-6th-2026/53090</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. November nails are up 400% in the PBC weekly trend report. The month's own manicure moment, confirmed by Pinterest's own community team. Engagement: +400% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>beauty</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Mariah Carey — All I Want for Christmas Is You</title>
-      <link>http://buffer.com/resources/trending-audio-instagram/</link>
-      <guid isPermaLink="true">http://buffer.com/resources/trending-audio-instagram/</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. The thawing of Mariah Carey has begun — 22 cumulative weeks at No. 1 on the US Billboard Hot 100; the holiday cheer has officially arrived for any Christmas content. STALE — Nov 3 edition. Engagement: engagement not verified (UNVERIFIED engagement). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15. Sound: All I Want for Christmas Is You — Mariah Carey.</description>
-      <category>instagram</category>
-      <category>other</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>SimpleNailey — Polka dot cat eye nails</title>
-      <link>https://www.simplenailey.com/most-searched-nail-trends-2026-pinterest/</link>
-      <guid isPermaLink="true">https://www.simplenailey.com/most-searched-nail-trends-2026-pinterest/</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Polka dot cat eye nails are up 1,585% per Pinterest's Beauty Trend Report. A magnetic cat-eye base framed with tiny dots, associated with London studio TW Nails Club — the fastest-growing nail search of 2026. Engagement: Searches up 1,585% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>beauty</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>SimpleNailey — Jelly pink chrome nails</title>
-      <link>https://www.simplenailey.com/most-searched-nail-trends-2026-pinterest/</link>
-      <guid isPermaLink="true">https://www.simplenailey.com/most-searched-nail-trends-2026-pinterest/</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Jelly pink chrome nails are up 1,469%. A sheer pink jelly base glazed with white or pearl chrome, like sea glass. Also reported at +1,469% by Paris Select on Nov 12. Engagement: Searches up 1,469% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>beauty</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>SimpleNailey — Milky white chrome almond nails</title>
-      <link>https://www.simplenailey.com/most-searched-nail-trends-2026-pinterest/</link>
-      <guid isPermaLink="true">https://www.simplenailey.com/most-searched-nail-trends-2026-pinterest/</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Milky white chrome on almond nails is up 1,402%. A creamy milky base with pearl chrome, echoing Pantone's 2026 Colour of the Year, Cloud Dancer. Engagement: Searches up 1,402% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>beauty</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>SimpleNailey — Caramel nude nails</title>
-      <link>https://www.simplenailey.com/most-searched-nail-trends-2026-pinterest/</link>
-      <guid isPermaLink="true">https://www.simplenailey.com/most-searched-nail-trends-2026-pinterest/</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Caramel nude nails are up 943%. Cafe-inspired neutrals lead the Latte Lacquer trend, translating the comfort of a weekend cafe run into a manicure. Engagement: Searches up 943% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>beauty</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>SimpleNailey — Coffee nails</title>
-      <link>https://www.simplenailey.com/most-searched-nail-trends-2026-pinterest/</link>
-      <guid isPermaLink="true">https://www.simplenailey.com/most-searched-nail-trends-2026-pinterest/</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Coffee nails are up 922%. Espresso browns and latte creams sit alongside caramel nude in the Latte Lacquer trend. Engagement: Searches up 922% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>beauty</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>SimpleNailey — Raspberry jelly nails</title>
-      <link>https://www.simplenailey.com/most-searched-nail-trends-2026-pinterest/</link>
-      <guid isPermaLink="true">https://www.simplenailey.com/most-searched-nail-trends-2026-pinterest/</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Raspberry jelly nails are up 828%. A translucent, juicy raspberry-pink jelly with glassy depth, the playful sibling of the cafe nails. Engagement: Searches up 828% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>beauty</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Made to Spark — Simple November nails</title>
-      <link>https://madetospark.com/pinterest-trends</link>
-      <guid isPermaLink="true">https://madetospark.com/pinterest-trends</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Simple November nails are up 86x vs October, the month's top beauty riser. November's own manicure moment, riding the seasonal nail wave. Engagement: 86x searches vs October (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>beauty</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>PinPinterest — Kids room ideas</title>
-      <link>https://pinpinterest.com/blog/rising-on-pinterest-2026-11</link>
-      <guid isPermaLink="true">https://pinpinterest.com/blog/rising-on-pinterest-2026-11</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <description>New today. Kids room ideas more than doubled, up 131% over 30 days. Storage is the angle: low cubbies, wall storage, dollar-store bins and IKEA hacks. Engagement: +131% over 30 days (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>other</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>PinPinterest — Easy cheap meals for large families</title>
-      <link>https://pinpinterest.com/blog/rising-on-pinterest-2026-11</link>
-      <guid isPermaLink="true">https://pinpinterest.com/blog/rising-on-pinterest-2026-11</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <description>New today. Easy cheap meals for large families doubled, up 100% over 30 days. Budget is the whole food story: dinners under $1 a serving, feeding a crowd for less. Engagement: +100% over 30 days (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>food</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Tailwind — Christmas gift ideas for mom</title>
-      <link>https://www.tailwindapp.com/blog/pinterest-holiday-shopping-season</link>
-      <guid isPermaLink="true">https://www.tailwindapp.com/blog/pinterest-holiday-shopping-season</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <description>New today. Christmas gift ideas for mom are up 200% month over month per Pinterest Trends (US, week of Oct 5). Gift searches have doubled or more in the past month and the climb steepens mid-November. Engagement: Up 200% month over month (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>other</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Retail Gazette — Frosted makeup</title>
-      <link>https://www.retailgazette.co.uk/blog/2026/10/pinterests-head-of-beauty-reveals/</link>
-      <guid isPermaLink="true">https://www.retailgazette.co.uk/blog/2026/10/pinterests-head-of-beauty-reveals/</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <description>New today. Frosted makeup searches are up 286% in Pinterest's first-ever Beauty Trend Report. The Arctic Frost trend points to metallic finishes as the season's defining beauty look. Engagement: Searches up 286% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>beauty</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Retail Gazette — Solid perfume aesthetic</title>
-      <link>https://www.retailgazette.co.uk/blog/2026/10/pinterests-head-of-beauty-reveals/</link>
-      <guid isPermaLink="true">https://www.retailgazette.co.uk/blog/2026/10/pinterests-head-of-beauty-reveals/</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <description>New today. Solid perfume aesthetic searches are up 333%. The Eau So Cosy trend makes fragrance a comfort category of sweet, nostalgic scents. Engagement: Searches up 333% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>beauty</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Retail Gazette — Skin scent</title>
-      <link>https://www.retailgazette.co.uk/blog/2026/10/pinterests-head-of-beauty-reveals/</link>
-      <guid isPermaLink="true">https://www.retailgazette.co.uk/blog/2026/10/pinterests-head-of-beauty-reveals/</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <description>New today. Skin scent searches are up 287%. Subtle, close-to-skin fragrance is a breakout in the Eau So Cosy trend. Engagement: Searches up 287% (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>beauty</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Market With Miranda — Green bean casserole</title>
-      <link>https://marketwithmiranda.com/november-pinterest-trends/?amp=1</link>
-      <guid isPermaLink="true">https://marketwithmiranda.com/november-pinterest-trends/?amp=1</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <description>New today. Green bean casserole is up 2,500% month over month. Alongside sweet potato casserole, the single biggest Thanksgiving dish spike. Engagement: Up 2,500% month over month (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>food</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Market With Miranda — Cranberry recipes</title>
-      <link>https://marketwithmiranda.com/november-pinterest-trends/?amp=1</link>
-      <guid isPermaLink="true">https://marketwithmiranda.com/november-pinterest-trends/?amp=1</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <description>New today. Cranberry recipes are up 1,000% month over month. Miranda flags cranberry as the trend to watch: dips, salads and sugared cranberries bridge Thanksgiving and Christmas for six weeks. Engagement: Up 1,000% month over month (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>food</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Market With Miranda — Elf on the shelf ideas</title>
-      <link>https://marketwithmiranda.com/november-pinterest-trends/?amp=1</link>
-      <guid isPermaLink="true">https://marketwithmiranda.com/november-pinterest-trends/?amp=1</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <description>New today. Elf on the shelf ideas are up 600% month over month. Parents plan the first week of elf ideas in November, before the elf arrives. Engagement: Up 600% month over month (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>other</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Mariah Carey — All I Want for Christmas Is You sound</title>
-      <link>https://kabo.sh/tools/trending-tiktok-sounds</link>
-      <guid isPermaLink="true">https://kabo.sh/tools/trending-tiktok-sounds</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Up to #2 on Kabo (was #4) at 16.3M videos, +9.4K/day, top-video median 23M views — the biggest cumulative count on the board by far. The Christmas wave keeps building; also #5 on Tokchart's songs chart and #5 in Revid's 30-day index. Engagement: 16.3M videos (+9.4K/day) (verified). Score: virality 5/5 + growth 4/5 + sentiment 5/5 = 14/15. Sound: All I Want for Christmas Is You.</description>
-      <category>tiktok</category>
-      <category>culture</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Marnie Cusk — Paper Moon Static sound</title>
-      <link>https://tokchart.com/tiktok-trending-sounds/canada</link>
-      <guid isPermaLink="true">https://tokchart.com/tiktok-trending-sounds/canada</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Down to #4 on Tokchart Canada (was #1) at 2M videos, +40,901/day — still the biggest daily gain on the Canada chart. Also #1 in Revid's 30-day index (9 viral videos) and Trenmo's top trend (334 creators this week). Engagement: 2M videos (+40,901/day) (verified). Score: virality 5/5 + growth 4/5 + sentiment 5/5 = 14/15. Sound: Paper Moon Static.</description>
-      <category>tiktok</category>
-      <category>culture</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Mariah Carey — All I Want for Christmas Is You song trend</title>
-      <link>https://tokchart.com/tiktok-trending-songs</link>
-      <guid isPermaLink="true">https://tokchart.com/tiktok-trending-songs</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Up to #5 on Tokchart's songs chart (up 2). The Christmas classic is climbing the songs list as the holiday switch takes hold; Kabo counts 16.3M videos for the sound. No video counts shown on this chart, so figures are unverified here. Engagement: engagement not verified (UNVERIFIED engagement). Score: virality 5/5 + growth 4/5 + sentiment 5/5 = 14/15. Sound: All I Want for Christmas Is You.</description>
-      <category>tiktok</category>
-      <category>culture</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Mariah Carey — All I Want for Christmas Is You sound (Revid)</title>
-      <link>https://www.revid.ai/viral-tiktok-songs</link>
-      <guid isPermaLink="true">https://www.revid.ai/viral-tiktok-songs</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. #5 in Revid's 30-day index: 5 viral videos, 148.6K–4.5M views in sample — steady. Kabo counts 16.3M videos for the sound — the Christmas wave is now visible across every tracker. Engagement: 5 viral videos, 148.6K–4.5M views in sample (verified). Score: virality 5/5 + growth 4/5 + sentiment 5/5 = 14/15. Sound: All I Want for Christmas Is You.</description>
-      <category>tiktok</category>
-      <category>culture</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Mariah Carey — All I Want for Christmas Dance</title>
-      <link>https://jumponthetrend.app/trends/songs/</link>
-      <guid isPermaLink="true">https://jumponthetrend.app/trends/songs/</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. New row on Jump on the Trend: Hot this week at ≈10M estimated views. The dance is done to a sped-up cut of Mariah Carey's Christmas single — the holiday wave now has its own dance. Engagement: ≈10M views (est.), read 14 Nov 2026 (verified). Score: virality 4/5 + growth 5/5 + sentiment 5/5 = 14/15. Sound: All I Want for Christmas Is You (sped-up cut).</description>
-      <category>tiktok</category>
-      <category>dance</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>unknown — Deck the Halls Christmas dance</title>
-      <link>https://postdom.com/blog/tiktok-trends</link>
-      <guid isPermaLink="true">https://postdom.com/blog/tiktok-trends</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Postdom's #3 named trend this week (spotted 10 Nov, updated Nov 14): pairs and small groups learn a short, bouncy routine to a Deck the Halls edit and film it in front of the first Christmas decorations. Early holiday dancing. Engagement: 65.9K videos (all time, as of 14 Nov 2026) (verified). Score: virality 4/5 + growth 5/5 + sentiment 5/5 = 14/15. Sound: original sound (Deck the Halls dance).</description>
-      <category>tiktok</category>
-      <category>dance</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>neozilla — The tree goes up</title>
-      <link>https://postdom.com/blog/tiktok-trends</link>
-      <guid isPermaLink="true">https://postdom.com/blog/tiktok-trends</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Postdom's #4 named trend this week (spotted 10 Nov, updated Nov 14): set to neozilla's 'Christmas', people film the first tree, lights and festive shelves going up, from bedrooms to big brand shops. #christmastree has 3.0M videos all time. Engagement: 1.2M videos (all time, as of 14 Nov 2026) (verified). Score: virality 4/5 + growth 5/5 + sentiment 5/5 = 14/15. Sound: Christmas.</description>
-      <category>tiktok</category>
-      <category>culture</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Tate McRae — Housewife</title>
-      <link>https://kabo.sh/tools/trending-instagram-audio</link>
-      <guid isPermaLink="true">https://kabo.sh/tools/trending-instagram-audio</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Kabo-reported, UNVERIFIED. Kabo audio board snapshot Nov 14, 2026 (06:25 UTC): Housewife is now Kabo's #1 sound with the biggest daily jump (+64.3K new Reels), overtaking Achchi Lagti Ho. Engagement: 409.1K Reels, +64.3K in 24h (+19%) (UNVERIFIED engagement). Score: virality 5/5 + growth 5/5 + sentiment 4/5 = 14/15. Sound: Housewife.</description>
-      <category>instagram</category>
-      <category>culture</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>@jockeyplazacuritiba — It's Time: The Holiday Switch-Over</title>
-      <link>https://postdom.com/blog/instagram-trends</link>
-      <guid isPermaLink="true">https://postdom.com/blog/instagram-trends</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. FRESH counts today (Postdom updated 14 Nov 2026; trend checked 10 Nov). Places switch to Christmas on screen to Mariah Carey's 'All I Want For Christmas Is You', from mall decorations to festive shop displays; 5.8M Reels as of 14 Nov, the biggest audio on the page. Engagement: 5.8M Reels (verified). Score: virality 5/5 + growth 4/5 + sentiment 5/5 = 14/15. Sound: All I Want For Christmas Is You.</description>
-      <category>instagram</category>
-      <category>culture</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Finneas — "My Moon My Man" Soft Launch</title>
-      <link>https://newengen.com/insights/tiktok-trends/</link>
-      <guid isPermaLink="true">https://newengen.com/insights/tiktok-trends/</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. New Engen's NEW #1 trend (page updated Nov 13, first fresh edition in weeks): Finneas's cover of Feist's 'My Moon My Man' soundtracks soft launches, couple edits and sweet relationship moments — intertwined hands, two coffee orders, blurry passenger-seat silhouettes. No figures shown, so unverified. Engagement: engagement not verified (UNVERIFIED engagement). Score: virality 4/5 + growth 5/5 + sentiment 5/5 = 14/15. Sound: My Moon My Man.</description>
-      <category>tiktok</category>
-      <category>culture</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Mariah Carey — It's Time</title>
+      <title>Trend scrub — Full list appendix — Nov 15</title>
       <link>https://newengen.com/insights/instagram-trends/</link>
-      <guid isPermaLink="true">https://newengen.com/insights/instagram-trends/</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. NEW Nov 13 edition: Mariah Carey's yearly 'it is time' clip opens the holiday season; show the before, then cut to the full holiday reveal on the cue. Engagement: engagement not verified (UNVERIFIED engagement). Score: virality 5/5 + growth 4/5 + sentiment 5/5 = 14/15. Sound: All I Want for Christmas Is You.</description>
-      <category>instagram</category>
-      <category>culture</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>ViralHunt — bestideaskids — kids' craft ideas</title>
-      <link>https://www.viralhunt.io/creators/pinterest/</link>
-      <guid isPermaLink="true">https://www.viralhunt.io/creators/pinterest/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. bestideaskids is the most-engaged Pinterest creator ViralHunt tracks, with 5.1M engagement across 101 posts and 1.1M followers. Kids' craft content is the platform's top engagement engine. Engagement: 5.1M engagement across 101 tracked posts; 1.1M followers (verified). Score: virality 5/5 + growth 4/5 + sentiment 5/5 = 14/15.</description>
-      <category>pinterest</category>
-      <category>other</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>ViralHunt — onelittleproject — kids' crafts and activities</title>
-      <link>https://www.viralhunt.io/creators/pinterest/</link>
-      <guid isPermaLink="true">https://www.viralhunt.io/creators/pinterest/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. onelittleproject has 5M tracked engagement across 126 posts with 625K followers. Kids' activity content punches far above its follower count. Engagement: 5M engagement across 126 tracked posts; 625K followers (verified). Score: virality 5/5 + growth 4/5 + sentiment 5/5 = 14/15.</description>
-      <category>pinterest</category>
-      <category>other</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>ViralHunt — remstoryart — art and illustration</title>
-      <link>https://www.viralhunt.io/creators/pinterest/</link>
-      <guid isPermaLink="true">https://www.viralhunt.io/creators/pinterest/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. remstoryart has 4.7M tracked engagement from just 34 posts and 2.5M followers. Art content with very high per-post engagement. Engagement: 4.7M engagement across 34 tracked posts; 2.5M followers (verified). Score: virality 5/5 + growth 4/5 + sentiment 5/5 = 14/15.</description>
-      <category>pinterest</category>
-      <category>other</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>ViralHunt — jessyhartel — lifestyle and home</title>
-      <link>https://www.viralhunt.io/creators/pinterest/</link>
-      <guid isPermaLink="true">https://www.viralhunt.io/creators/pinterest/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. jessyhartel has 4M tracked engagement across 40 posts with only 391K followers. One of the highest engagement-to-follower ratios on Pinterest. Engagement: 4M engagement across 40 tracked posts; 391K followers (verified). Score: virality 5/5 + growth 4/5 + sentiment 5/5 = 14/15.</description>
-      <category>pinterest</category>
-      <category>other</category>
-      <category>New</category>
-    </item>
-    <item>
-      <title>Tate McRae — Housewife sound</title>
-      <link>https://kabo.sh/tools/trending-tiktok-sounds</link>
-      <guid isPermaLink="true">https://kabo.sh/tools/trending-tiktok-sounds</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Signal — still trending, day 10 since first seen. Back at #1 on Kabo (was #2) at 668.3K videos, +13.2K/day (+2.0%) — the biggest daily gain on the board — top-video median 5.6M views, 14% like rate. The Housewife POV glow-up format keeps climbing; also #1 in Revid's weekly sample and #5 on Tokchart's songs chart. Engagement: 668.3K videos (+13.2K/day, +2.0%) (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15. Sound: Housewife.</description>
-      <category>tiktok</category>
-      <category>culture</category>
-      <category>Signal</category>
-    </item>
-    <item>
-      <title>Pinsearch — Makeup tutorial</title>
-      <link>https://pinsearch.co/most-searched-pinterest-keywords/</link>
-      <guid isPermaLink="true">https://pinsearch.co/most-searched-pinterest-keywords/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Signal — still trending, day 8 since first seen. Makeup tutorial draws 3M monthly searches, up 1,522% vs last year. The second-biggest YoY riser in Pinsearch's list; how-to beauty is exploding. Engagement: 3M monthly searches; +1,522% vs last year (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>beauty</category>
-      <category>Signal</category>
-    </item>
-    <item>
-      <title>Pinsearch — Nail art ideas</title>
-      <link>https://pinsearch.co/most-searched-pinterest-keywords/</link>
-      <guid isPermaLink="true">https://pinsearch.co/most-searched-pinterest-keywords/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Signal — still trending, day 8 since first seen. Nail art ideas draws 929K monthly searches, up 2,129% vs last year — the biggest YoY rise in Pinsearch's whole list. Nail art is the breakout beauty category. Engagement: 929K monthly searches; +2,129% vs last year (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>beauty</category>
-      <category>Signal</category>
-    </item>
-    <item>
-      <title>Made to Spark — Beaded tinsel</title>
-      <link>https://madetospark.com/pinterest-trends</link>
-      <guid isPermaLink="true">https://madetospark.com/pinterest-trends</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Signal — still trending, day 9 since first seen. Beaded tinsel searches are up 100x+ vs October, joint-fastest November riser on Pinterest. A DIY Christmas decor material surging as pinners plan holiday decorating early. Engagement: 100x+ searches vs October (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>other</category>
-      <category>Signal</category>
-    </item>
-    <item>
-      <title>Market With Miranda — Thanksgiving recipes</title>
-      <link>https://marketwithmiranda.com/november-pinterest-trends/?amp=1</link>
-      <guid isPermaLink="true">https://marketwithmiranda.com/november-pinterest-trends/?amp=1</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Signal — still trending, day 10 since first seen. Thanksgiving recipes are up 600% month over month. Practical, make-and-serve searches dominate November food planning. Engagement: Up 600% month over month (verified). Score: virality 5/5 + growth 5/5 + sentiment 5/5 = 15/15.</description>
-      <category>pinterest</category>
-      <category>food</category>
-      <category>Signal</category>
-    </item>
-    <item>
-      <title>newengen.com — Turkey Charcuterie Boards</title>
-      <link>https://newengen.com/insights/instagram-trends/</link>
-      <guid isPermaLink="true">https://newengen.com/insights/instagram-trends/#turkey-charcuterie-boards</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Trend-page scrub Top 10 — Nov 14, from Instagram pages posting what's trending, Canva/template posts filtered out. Thanksgiving appetizer format: rebuild the classic cheese board as a turkey — crackers, cheese and cured meats fanned like tail feathers around a pear or cheese-ball body. Top-down build, made to be saved for Thanksgiving menus; trending on TikTok and Instagram at the same time. Engagement: engagement not verified (UNVERIFIED engagement). Score: virality 3/5 + growth 4/5 + sentiment 4/5 = 11/15.</description>
-      <category>instagram</category>
-      <category>food</category>
-      <category>New</category>
-      <category>Trend-scrub Top 10</category>
-    </item>
-    <item>
-      <title>newengen.com — Lately on My SD Card</title>
-      <link>https://newengen.com/insights/instagram-trends/</link>
-      <guid isPermaLink="true">https://newengen.com/insights/instagram-trends/#lately-on-my-sd-card</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Trend-page scrub Top 10 — Nov 14, from Instagram pages posting what's trending, Canva/template posts filtered out. Camera-roll dump with nostalgia built in: an SD card graphic opens the Reel, then a fast run of recent clips and photos — shoots from the week, behind-the-scenes moments, details nobody else saw. Photographers, dog groomers, drone operators and designers are all making their own; needs no new filming. Engagement: engagement not verified (UNVERIFIED engagement). Score: virality 3/5 + growth 4/5 + sentiment 4/5 = 11/15. Sound: Original audio.</description>
-      <category>instagram</category>
-      <category>culture</category>
-      <category>New</category>
-      <category>Trend-scrub Top 10</category>
-    </item>
-    <item>
-      <title>later.com — Appointment timestamps</title>
-      <link>https://later.com/blog/instagram-reels-trends/?utm_source=Beauty%20by%20Earth%20Team&amp;utm_medium=email&amp;utm_campaign=Affiliate%20Newsletter%20-%20Send%201%20-%20August%205%20%2801H72Z5K7DSZF0BXWX60TPDH0T%29&amp;_kx=</link>
-      <guid isPermaLink="true">https://later.com/blog/instagram-reels-trends/?utm_source=Beauty%20by%20Earth%20Team&amp;utm_medium=email&amp;utm_campaign=Affiliate%20Newsletter%20-%20Send%201%20-%20August%205%20%2801H72Z5K7DSZF0BXWX60TPDH0T%29&amp;_kx=#appointment-timestamps</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Trend-page scrub Top 10 — Nov 14, from Instagram pages posting what's trending, Canva/template posts filtered out. The day-in-the-life timestamp trend narrowed to a single appointment: walk in to walk out of a manicure, facial or fresh cut, timestamped clip by clip. A satisfying behind-the-scenes in disguise, aimed squarely at service-based businesses. Engagement: engagement not verified (UNVERIFIED engagement). Score: virality 3/5 + growth 3/5 + sentiment 4/5 = 10/15. Sound: Original audio.</description>
-      <category>instagram</category>
-      <category>beauty</category>
-      <category>New</category>
-      <category>Trend-scrub Top 10</category>
-    </item>
-    <item>
-      <title>creators.ramd.am — What products sound like</title>
-      <link>https://creators.ramd.am/blog/instagram-trends-for-creators</link>
-      <guid isPermaLink="true">https://creators.ramd.am/blog/instagram-trends-for-creators#what-products-sound-like</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Trend-page scrub Top 10 — Nov 14, from Instagram pages posting what's trending, Canva/template posts filtered out. Give everyday products a personality by imagining what they sound like being carried home: film with the phone placed inside a bag, facing up, while walking, captioned 'How I imagine [product] sounds in my bag coming home with me.' From the Nov 10 creators.ramd.am edition, surfaced today — the main ramd.am page never listed it. Engagement: engagement not verified (UNVERIFIED engagement). Score: virality 3/5 + growth 3/5 + sentiment 4/5 = 10/15.</description>
-      <category>instagram</category>
-      <category>other</category>
-      <category>New</category>
-      <category>Trend-scrub Top 10</category>
-    </item>
-    <item>
-      <title>tracygram.com — Lies (feat. Lana Del Rey)</title>
-      <link>https://tracygram.com/instagram-trending-audio</link>
-      <guid isPermaLink="true">https://tracygram.com/instagram-trending-audio#lies-feat-lana-del-rey</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Trend-page scrub Top 10 — Nov 14, from Instagram pages posting what's trending, Canva/template posts filtered out. New entry on tracygram's daily Global chart at #10 (17K reels) — Zach Bryan's 'Lies' featuring Lana Del Rey, a fresh chart climber with a small base so far. tracygram's figure, not Instagram's own count. Engagement: 17K reels (tracygram) (UNVERIFIED engagement). Score: virality 2/5 + growth 3/5 + sentiment 4/5 = 9/15. Sound: Lies (feat. Lana Del Rey) — Zach Bryan ft. Lana Del Rey.</description>
-      <category>instagram</category>
-      <category>culture</category>
-      <category>New</category>
-      <category>Trend-scrub Top 10</category>
-    </item>
-    <item>
-      <title>Trend scrub — Full list appendix — Nov 14</title>
-      <link>https://newengen.com/insights/instagram-trends/</link>
-      <guid isPermaLink="true">https://newengen.com/insights/instagram-trends/#full-list-appendix-nov-14</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New today. Trend-page scrub appendix — Nov 14. The full list of actual trends found on Instagram trend-reporting pages, listed here at the bottom for reference, not individually ranked or itemized as feed trends. Scott Social daily list (top 22 re-read today, unchanged from Nov 12): 'I Saw You On 8th Avenue' and 'Posting My Stats Like It's Strava' were yesterday's Top 10; 'First in my bloodline' (Loser, Tame Impala, 161K posts), 'It's Time!' (original audio @JessDoesTravels, 52K), 'Luminary' (Joel Sunny, 86K), 'This Is My Art' (@paddy.cartwright, 11K), 'Do Not Bother the Botherer' (@veronicaplingau, 5.9K), "You're Robbing Me" (@traavloo, 679), 'The Multitasker' (@realestateblondies, 29K), 'My Reaction to…' (@brundaepadua, 4K), 'Hello October' (Sugar Lime Blue, 187K), 'Living Life, Posting Nothing' (@lupeesaito, 6K), 'Take A Chance Cause You Might Grow' (Gwen Stefani 'What you waiting for?', 111K), 'This is Me' (Demi Lovato &amp; Joe Jonas, 31K), 'Patient Zero' (Taylor Swift, 53K), 'Autumn Colors' (LuLuMusic, 55K), "I've been ghosting you cause I'm workin" (Nemzzz 'GEEKIN', 18K), 'Life Is So Good' (Sabrina Carpenter 'Go Go Juice', 29K), 'Upside Down' (Diana Ross, 127K), 'Keep Me In Your Thoughts' (@lindseyelliottrealtor, 1.8K), 'Someday We Will Dream About Today' (The Sways, 213K), 'I think about it all the time' (Sienna Spiro 'Pure', 41K) — all already in the feed. The tail of the page (entries 23-42) could not be re-read today (429 on the fetch, see Read limits); all 20 were already in the feed as of Nov 13.; Virlo Nov 13: same 8 trends (344 creators posting), all already in the feed — 'Wizard Cat at Keyboard' (27 creators), 'Pretty Little Liars -A messages' (32), 'ChatGPT One Word Personality Challenge' (8), 'Hotel Lobby AI Duo' (70, TikTok-leaning), "Sean O'Pry snapping fingers meme" (30, TikTok), "Slowed Acoustic 'The Night We Met'" (150), 'Teaching him new habits' (21), 'Sheldon Lee Cooper You Dog' (6).; tracygram Nov 14: chart churn — Global: BbY WOW 1.4M, Housewife 335K (flat), Nicole Kidman 622K (was 601K Nov 13), Stop The Wedding! 73K, Ain't In LA 260K (flat), the cure 115K (was 113K), Choosin' Texas 175K (flat), 'stupid song' 97K (already in the feed — Nov 8/9 items), Babydoll 29K (already in the feed as 'Babydoll Rising Fast'); Iris, Earrings and back to friends dropped out of the Global top 10. India: Guzarish 2.9M, Dilruba Dilnasheen 967K (already in the feed), Ashke 656K (flat), Tu Mil Jaaye 227K, Alfaaz 1.2M, Veezha Veera 243K, Barsaat 1.4M, Straight Up 144K, Pesamale 277K, Arz Kiya Hai 2.2M; Radhimaa dropped out. 'Top 15 today' widget failed to load again.; Kabo IG board Nov 14 (06:25 UTC snapshot): top 5 named — Housewife 409.1K (+64.3K, +19%), Achchi Lagti Ho 4.5M (+20.6K), Training Season (Live from the Royal Albert Hall) 1.3M (+10.4K), BbY WOW 1.4M (+10.3K), Alfaaz 1.2M (+8.2K); all already in the feed; sounds #6–20 hidden behind sign-in, fastest risers gated.; Kabo trending Reels snapshot still Nov 13: top reels are news/viral one-offs (2026 midterm map 46.1M, Diwali, Russell Brand sentencing, Jensen Huang/Nvidia AI parody cluster), not formats; context only.; CreatorDB still Nov 11 edition: all 14 audios already in the feed, including All I Want for Christmas Is You (5.8M+), Housewife (273K+), Nicole Kidman, Linger, Underneath the Tree (451K+) and Santa Tell Me (571K+).; Postdom UPDATED Nov 14 (counts refreshed, same 5 trends): Time: then and now (Pink Floyd 'Time', 456K), Entiende corazón glow-up (Prince Royce 'Rechazame', 29K), Christmas music is allowed now (Wham! 'Last Christmas', 768K), Christmas Market cozy reveals (Eoneun 'Christmas Market', 72K), It's time: the holiday switch-over (Mariah Carey, 5.8M) — all already in the feed.; Later.com Nov 13: '5 stages of being...' — already in the feed (Nov 12 scrub Top 10); 'Outfit transition' (Britney Spears '3') — same counting-audio outfit-change family as '1, 2, 3 Outfit Transition' captured Nov 4; 'Not every angel' — already in the feed; 'I just wanna' — already in the feed; 'Every girl for absolutely no reason' — already in the feed.; New Engen Nov 13: 'Paid Me No Mind' — same as 'I Saw You On 8th Avenue' (Nov 13 scrub Top 10); "It's Time" — already in the feed; 'Add to Cart' — already in the feed; 'Be Your Own Housewife' — already in the feed; 'Girl, Zoom In' — same family as 'Zoom In' already in the feed; 'No, No, No... Yes!' — already in the feed; 'War Is Over' — already in the feed.; eksis.io still the Nov 12 guide — all 8 formats already in the feed.; ramd.am still the Nov 10 update — '5 stages of being a ___', 'How to put text behind you', 'Whistling trend' — all already in the feed.; aitechtonic.com still the older New Engen mirror — Patient Zero Wedding Day Edit, Message From A, Ramalama Costume Walk, Things You Should Definitely Ghost, Be OK, Nicole Kidman Era, My Reaction To ___, Stop the Wedding, Autumn Colors — all already in the feed.; inmagic.ai still Nov 9; Buffer still the same 13 November sounds (Nov 3); Lightreel still the Oct 31–Nov 7 report ('Closer' by Gehlee and 'Drip' by ATEEZ already in the feed); SocialPilot still Oct 31–Nov 10; Metricool still the Nov 2 Halloween list (stale); LearnType still Nov 4; NapoleonCat November page — all trends already in the feed.; viralvideo.website — 'All Adults Under 5'3 Report to the North Pole' already in the feed.. Canva/template/app-promo posts were filtered out before this list (see scrub file). Engagement: engagement not verified (UNVERIFIED engagement). Score: virality 3/5 + growth 3/5 + sentiment 4/5 = 10/15.</description>
+      <guid isPermaLink="true">https://newengen.com/insights/instagram-trends/#full-list-appendix-nov-15</guid>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>New today. Trend-page scrub appendix — Nov 15. The full list of actual trends found on Instagram trend-reporting pages, listed here at the bottom for reference, not individually ranked or itemized as feed trends. Scott Social daily list (all 42 entries re-read today, unchanged from Nov 12): 'I Saw You On 8th Avenue' (original audio @kateeedenisee, 2.6K posts) and 'Posting My Stats Like It's Strava' (Swag Surfin', 18K) were Nov 13's Top 10; 'First in my bloodline' (Loser, Tame Impala, 161K), 'It's Time!' (original audio @JessDoesTravels, 52K), 'Luminary' (Joel Sunny, 86K), 'This Is My Art' (@paddy.cartwright, 11K), 'Do Not Bother the Botherer' (@veronicaplingau, 5.9K), "You're Robbing Me" (@traavloo, 679), 'The Multitasker' (@realestateblondies, 29K), 'My Reaction to…' (@brundaepadua, 4K), 'Hello October' (Sugar Lime Blue, 187K), 'Living Life, Posting Nothing' (@lupeesaito, 6K), 'Take A Chance Cause You Might Grow' (Gwen Stefani 'What you waiting for?', 111K), 'This is Me' (Demi Lovato &amp; Joe Jonas, 31K), 'Patient Zero' (Taylor Swift, 53K), 'Autumn Colors' (LuLuMusic, 55K), "I've been ghosting you cause I'm workin" (Nemzzz 'GEEKIN', 18K), 'Life Is So Good' (Sabrina Carpenter 'Go Go Juice', 29K), 'Upside Down' (Diana Ross, 127K), 'Keep Me In Your Thoughts' (@lindseyelliottrealtor, 1.8K), 'Someday We Will Dream About Today' (The Sways, 213K), 'I think about it all the time' (Sienna Spiro 'Pure', 41K), 'Summer Love' (Justin Timberlake, 66K), 'September' (Art Music, 164K), 'What I mean when I say my hands are full' (Rivers of Belief, Enigma, 39K), 'So, what brought you here?' (Sometimes, Fleetwood Mac, 40K), "Money Can't Buy You Happiness" (original audio @eresdigna, 125K), '9 to 5' (Dolly Parton, 77K), 'Some People Call Me…' (Summer Love, Justin Timberlake, 52K), 'Corporate Girl' (original audio @olyabelakoneva, 1.1K), "Ohhh, I Wasn't Sad…" (original audio @scoopsycafelv, 14K), 'Basic Human Needs' (The Morning, The Weeknd, 20K), 'Yummy Little Day' (emilogue, 59K), "On today's episode we have…" (Two Best Friends, lisahoogendoorn, 3.6K), 'In &amp; Out' (Ravyn Lenae, 4.5K), 'August' (Taylor Swift, 6.8K), 'Yes or Yes' (original audio @itsjudyshin, 6.8K), 'Work &amp; Result' (original audio arceriinteriors, 5.5K), 'My Biggest Flex' (She Wolf, Shakira, 30K), 'Sometimes' (Fleetwood Mac, 3.1K), 'Color Text Reveal' (original audio justtripit), "Can I See Your Work?" (BEAUTY AND A BEAT X COLA (ALTÉGO MIX), 91K), 'Sweetly' (jkl, 26K) — all already in the feed. The tail (entries 23-42) was re-read successfully today after yesterday's 429 and matches Nov 13 exactly.. Virlo Nov 15: same 8 trends (344 creators posting), all already in the feed — 'Wizard Cat at Keyboard' (27 creators), 'Pretty Little Liars -A messages' (32), 'ChatGPT One Word Personality Challenge' (8), 'Hotel Lobby AI Duo' (70, TikTok-leaning), "Sean O'Pry snapping fingers meme" (30, TikTok), "Slowed Acoustic 'The Night We Met'" (150), 'Teaching him new habits' (21), 'Sheldon Lee Cooper You Dog' (6).. tracygram Nov 15: chart churn — Global: Housewife 382K (was 335K Nov 14), BbY WOW 1.4M, Nicole Kidman 622K (flat), Last Christmas 771K (NEW entry at #4 — same Wham! audio already in the feed as 'Christmas music is allowed now'), Stop The Wedding! 73K, Ain't In LA 260K (flat), Beauty And A Beat (feat. Nicki Minaj) 878K (NEW entry at #7 — flagged for the assembler, see scrub intro; only ever a Nov 8 appendix mention before), the cure 115K (flat), Choosin' Texas 177K (was 175K), Babydoll 30K (was 29K); 'Lies (feat. Lana Del Rey)' dropped out of the Global top 10 after one day (yesterday's Top 10), 'stupid song' dropped out too. India: Guzarish 3.4M (was 2.9M), Dilruba Dilnasheen 967K (already in the feed), Tu Mil Jaaye 227K, Alfaaz 1.2M, Veezha Veera 243K, Barsaat 1.4M, Straight Up 144K, Ashke 667K (was 656K), Arz Kiya Hai 2.2M, One Name 74K (NEW entry at #10 — already in the feed, items Nov 8/10/11); Pesamale dropped out. 'Top 15 today' widget failed to load again.. Kabo IG board Nov 15 (06:25 UTC snapshot): top 5 — Achchi Lagti Ho 4.6M (+30K, +0.7%), Alfaaz 1.2M (+22K, +1.8%), BbY WOW 1.4M (+16.6K, +1.2%), Barsaat 1.4M (+15.1K, +1.1%), Training Season (Live from the Royal Albert Hall) 1.4M (+13.5K, +1.0%); Housewife drops out of the top 3; all already in the feed; sounds #6–20 hidden behind sign-in, fastest risers gated.. Kabo trending Reels snapshot still Nov 14: top reels are news/viral one-offs (2026 midterm map 46.4M, Microsoft Outlook outage 33.6M, Dhanush trailer 20.5M), not formats; context only.. CreatorDB still Nov 11 edition: all 14 audios already in the feed, including All I Want for Christmas Is You (5.8M+), Housewife (273K+), Nicole Kidman, Linger, Underneath the Tree (451K+) and Santa Tell Me (571K+).. Postdom Nov 14 (Instagram page, same 5 trends): Time: then and now (Pink Floyd 'Time', 456K), Entiende corazón glow-up (Prince Royce 'Rechazame', 29K), Christmas music is allowed now (Wham! 'Last Christmas', 768K), Christmas Market cozy reveals (Eoneun 'Christmas Market', 72K), It's time: the holiday switch-over (Mariah Carey, 5.8M) — all already in the feed. TikTok page (same Nov 14 update): 'Deck the Halls Christmas dance' (65.9K TikTok videos) and 'The tree goes up' (1.2M) — both already in the feed (items-2026-11-14.json).. Later.com Nov 13: '5 stages of being...' — already in the feed (Nov 12 scrub Top 10); 'Outfit transition' (Britney Spears '3') — same counting-audio outfit-change family as '1, 2, 3 Outfit Transition' captured Nov 4; 'Not every angel' — already in the feed; 'I just wanna' — already in the feed; 'Every girl for absolutely no reason' — already in the feed.. New Engen Nov 13: TikTok 12 (My Moon My Man Soft Launch, Turkey Charcuterie Boards, Mariah's 'It's Time', Chipmunks Dance, 'Paid Me No Mind' Overthinking, Zombie Outbreak Survival Stories, 'Go, Go, Go', 'Dame Hombro', 'Fan Transition', 'Pray For Me Slow Mo', "Kylie Jenner's Runway Hip Pop", 'Housewife' Outfit and Work Reveal) and Instagram 10 (same set minus the TikTok-only ones, plus 'Add to Cart', 'Be Your Own Housewife', 'Girl, Zoom In', 'No, No, No... Yes!', 'War Is Over') — all already in the feed.. eksis.io guide still ~Nov 11: 'I Just Wanna...', 'No and Yes', 'Zoom In', 'Moodboard Stack', 'Lens Wipe Transition', 'Process versus the Product' — all already in the feed.. ramd.am / creators.ramd.am still the Nov 10 update — '5 stages of being a ___', 'How to put text behind you', 'Whistling trend', 'What products sound like' — all already in the feed.. aitechtonic.com still the older New Engen mirror — Patient Zero Wedding Day Edit, Message From A, Ramalama Costume Walk, Things You Should Definitely Ghost, Be OK, Nicole Kidman Era, My Reaction To ___, Stop the Wedding, Autumn Colors — all already in the feed.. inmagic.ai still Nov 9; Buffer still the same 13 November sounds (Nov 3); virlo.ai/blog still the Nov 5 edition; SocialPilot, Lightreel, Metricool, LearnType, NapoleonCat, viralvideo.website, medium.com not re-checked today (carried as Nov 14).. followlly.com fitness tracker (Nov 9 edition): no clear trending song in its niche sample — 80% of its 131 fitness Reels use original audio/voiceover, no track in more than one video; not counted.. Canva/template/app-promo posts were filtered out before this list (see scrub file). Engagement: engagement not verified (UNVERIFIED engagement). Score: virality 3/5 + growth 3/5 + sentiment 4/5 = 10/15.</description>
       <category>instagram</category>
       <category>culture</category>
       <category>New</category>
       <category>Trend-scrub appendix</category>
     </item>
-  </channel>
+</channel>
 </rss>
